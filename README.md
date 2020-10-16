@@ -1,7 +1,7 @@
 <h2 align="center"> hi there, i'm anne 👋 </h3>
 <h4 align="center"> (she/her/hers) </h5>
 
-#### ✨ &nbsp; i am a tech enthusiast, lifelong learner, and podcast lover
+<h4 align="center"> ✨ &nbsp; i am a tech enthusiast, lifelong learner, and podcast lover </h5>
 
 📚 &nbsp; 4th year business + computer science student @ ubc
 
