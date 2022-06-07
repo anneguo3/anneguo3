@@ -3,7 +3,7 @@
 
 <h4 align="center"> ✨ &nbsp; i am a tech enthusiast, lifelong learner, and podcast lover </h5>
 
-📚 &nbsp; 5th year business + computer science student @ ubc
+📚 &nbsp; business + computer science graduate from ubc
 
 🌱 &nbsp; learning how to be a [disagreeable giver](https://www.ted.com/talks/adam_grant_are_you_a_giver_or_a_taker)
 
